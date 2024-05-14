@@ -424,6 +424,7 @@ footer .social i {
   .menu {
     display: none;
     position: absolute;
+    z-index: 999;
   }
   #navbar a:hover {
     color: var(--header-color);
