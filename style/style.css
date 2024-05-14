@@ -424,7 +424,6 @@ footer .social i {
   .menu {
     display: none;
     position: absolute;
-    z-index: 999;
   }
   #navbar a:hover {
     color: var(--header-color);
@@ -434,7 +433,7 @@ footer .social i {
     flex-direction: column;
     justify-content: space-evenly;
     align-items: center;
-    height: 250px;
+    height: 150px;
     top: 0;
     right: 0;
     padding-right: 50px;
